@@ -1,5 +1,5 @@
 track  bigBed1
-bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/skin.bed
+bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/skin.bb
 shortLabel Skin
 longLabel MPRA of CRE variants in Prevalent Skin Diseases
 type bigBed 9 +
