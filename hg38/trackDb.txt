@@ -5,17 +5,3 @@ longLabel MPRA of CRE variants in Prevalent Skin Diseases
 type bigBed 9 +
 visibility full
 
-track bigBed2
-bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/cancer.bed
-shortLabel Cancer
-longLabel MPRA of CRE variants in Common Human Cancers
-type bigBed 9 +
-visibility full
-
-track bigBed3
-bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/neuropsychiatry.bed
-shortLabel Neuropsychiatry
-longLabel MPRA of CRE variants in Neuropsychiatric Disorders
-type bigBed 9 +
-visibility full
-
