@@ -1,19 +1,19 @@
 track  bigBed1
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqA549CellLongnonpolyaMinusRawSigRep1.bigWig
+bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/skin.bed
 shortLabel Skin
 longLabel MPRA of CRE variants in Prevalent Skin Diseases
 type bigBed 9 +
 visibility full
 
 track bigBed2
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/cancer.bed
 shortLabel Cancer
 longLabel MPRA of CRE variants in Common Human Cancers
 type bigBed 9 +
 visibility full
 
 track bigBed3
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqK562CellTotalAlnRep2.bam
+bigDataUrl https://raw.githubusercontent.com/SuhasSrinivasan/arvid-ucsc/main/hg38/neuropsychiatry.bed
 shortLabel Neuropsychiatry
 longLabel MPRA of CRE variants in Neuropsychiatric Disorders
 type bigBed 9 +
