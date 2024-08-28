@@ -1,0 +1,5 @@
+hub ARVID
+shortLabel ARVID
+longLabel Atlas of Regulatory Variants in Diseases
+genomesFile genomes.txt
+email  myEmail@address
