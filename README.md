@@ -1,2 +1,2 @@
 # arvid-ucsc
-Hosting files for UCSC Genome Browser Track Hub.
+Files for UCSC Genome Browser Track Hub.
